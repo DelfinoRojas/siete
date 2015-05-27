@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>App5 Droop con la pantalla</name>
+    <name>App7 Menú de aplicaciones</name>
 
     <description>
-        Aplicacion que arrastra la pantalla hacia la derecha e izquierda
+        Conjunto de aplicaciones 3,4,5
     </description>
 
     <preference name="phonegap-version" value="3.1.0" />
